@@ -1,7 +1,6 @@
-<h1 align="center">
-    <img src="./marpLogo.png" />
+<h1>
     <p style="font-size: 15px;">
-        O mais novo sistema de gerenciamento de alarmes residenciais, e a solução definitiva para a segurança da sua casa.
+        Aluno: Davi Ribeiro de Almeida - 21.2.8018
     </p>
 </h1>
 
