@@ -47,8 +47,8 @@ export default function Register() {
       if (email === user.email) {
         return false;
       }
-      return true;
     }
+    return true;
   };
 
   const onSubmit = async (e) => {

@@ -8,7 +8,7 @@ spring:
     datasource:
         url: jdbc:postgresql://localhost:5432/marp  
         username: postgres
-        password: 6337311
+        password: 12345
         driverClassName: org.postgresql.Driver
 
     jpa:

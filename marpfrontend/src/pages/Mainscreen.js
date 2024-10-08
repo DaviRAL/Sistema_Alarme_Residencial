@@ -5,7 +5,7 @@ import { useState } from "react";
 import Modal from "../components/Modal";
 import '../App.css';
 import axios from 'axios';
-import Card from '../components/Card';
+import Card from '../components/card.js';
 
 export default function Mainscreen() {
     
